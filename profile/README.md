@@ -1,26 +1,26 @@
-## 👨‍🔬 Castar-Labs
+## 👨‍🔬 Solaris Labs
 
-The Castar-Labs hosts a series of repositories relating to the Castar blockchain and tooling for Cosmos.
+Solaris Labs hosts a series of repositories relating to the Solaris blockchain and tooling for Cosmos.
 
-The Castar blockchain is a decentralized network, secured by many validators and full nodes, with many promising projects building on its tech-stack and infrastructure.
+The Solaris blockchain is a decentralized network, secured by many validators and full nodes, with many promising projects building on its tech-stack and infrastructure.
 
-Docs for the network can be found at docs.castar.network.
+Docs for the network can be found at docs.solaris.zone.
 
 
 ## 🔗 Useful Resources
 
 > [!NOTE]
-> Castar Network and related projects are currently in beta. Not all resources might function as expected.
+> Solaris and related projects are currently in beta. Not all resources might function as expected.
 
-* [Castar Website](https:/castar.network) - The official Castar Website.
+* [Solaris Website](https://solaris.zone) - The official Solaris Website.
 
-* [Castar SKD Repo](https://github.com/Castar-Network/castar-sdk) - An allround SDK for working with Castar Network.
+* [Solaris SKD Repo](https://github.com/SolarisLabs/solaris-sdk) - An allround SDK for working with Solaris.
 
 
 ## 🔬 Fun Facts
 
-Some fun facts about Castar Network. Did you know:
+Some fun facts about Solaris. Did you know:
 
-* Castar Network was the first chain that brought a full solution for RWAs and broader blockchain services to the Cosmos ecosystem.
+* Solaris was the first chain that brought a full solution for RWAs and broader blockchain services to the Cosmos ecosystem.
 
-* Castar is a wordplay of "Casting" and "Star" and was derived from Castor - the second-brightest object in the zodiac constellation of Gemini and one of the brightest stars in the sky over Earth. 
+* Solaris symbolizes the star at the center of a planetary system — a sun that radiates light and energy, powering the entire constellation. It represents our project's role in providing essential resources and vitality within the Cosmos blockchain network. 
